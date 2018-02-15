@@ -1,6 +1,6 @@
 # POC Webdriver.IO + Cucumber
 
-Após clonar o projeto execute os comandos abaixo""
+Após clonar o projeto execute os comandos abaixo:
 
 ## Instalar as dependências do projeto
 ```
