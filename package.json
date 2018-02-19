@@ -17,9 +17,7 @@
   "author": "Cássio Alves",
   "license": "ISC",
   "homepage": "https://bitbucket.org/suporte_concrete/bppj-qa-web#readme",
-  "dependencies": {
-   
-  },
+  "dependencies": {},
   "devDependencies": {
     "selenium-standalone": "^6.8.0",
     "wdio-cucumber-framework": "^1.0.2",
@@ -29,6 +27,8 @@
     "chai-as-promised": "^7.1.1",
     "cucumber": "^3.0.0",
     "wdio-allure-reporter": "^0.0.2",
-    "webdriverio": "^4.8.0"
+    "webdriverio": "^4.8.0",
+    "wdio-chromedriver-service": "^0.1",
+    "chromedriver": "^2.35.0"
   }
 }
