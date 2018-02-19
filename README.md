@@ -28,7 +28,8 @@ npm run tests
 
 ## Chrome Headless 
 Os testes estão configurados para serem executados em modo headless, ou seja, sem abrir o navegador.
-Essa configuração fica no aquivo [a link] (https://github.com/cassioafs/poc-wdio-cucumber/blob/master/wdio.conf.js)
+Essa configuração fica no aquivo [wdio.conf.js](https://github.com/cassioafs/poc-wdio-cucumber/blob/master/wdio.conf.js)
+
 ```
 capabilities: [{
         maxInstances: 5,
